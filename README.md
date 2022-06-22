@@ -2,6 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+
+## Heroku
+https://note-taker-1125.herokuapp.com
+
 ## Description
 
 The Note Taker is an application that runs on an Express.js server and provides users with a simple UI to input and save notes to a database.
